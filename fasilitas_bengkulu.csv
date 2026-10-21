@@ -1,0 +1,7 @@
+id,nama,jenis,alamat,latitude,longitude
+F001,Fasilitas Pendidikan A,Pendidikan,Contoh lokasi 1,-3.8000,102.2650
+F002,Fasilitas Kesehatan B,Kesehatan,Contoh lokasi 2,-3.8100,102.2750
+F003,Ruang Publik C,Ruang Publik,Contoh lokasi 3,-3.7900,102.2550
+F004,Fasilitas Pendidikan D,Pendidikan,Contoh lokasi 4,-3.8200,102.2600
+F005,Halte Contoh E,Transportasi,Contoh lokasi 5,-3.8050,102.2500
+F006,Klinik Contoh F,Kesehatan,Contoh lokasi 6,-3.8150,102.2450
